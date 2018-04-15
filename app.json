@@ -11,7 +11,7 @@
     "backgroundColor":"#31a030",
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#4bbc93",
-    "navigationBarTitleText": "云课堂",
+    "navigationBarTitleText": "固升骨健康",
     "navigationBarTextStyle":"light"
   },
   "tabBar":{
@@ -22,7 +22,7 @@
     "list":[
       {
         "pagePath":"pages/index/index",
-        "text":"首页",
+        "text":"活动",
         "iconPath":"images/tab_index1.png",
         "selectedIconPath":"images/tab_index2.png"
       },

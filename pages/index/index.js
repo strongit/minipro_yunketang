@@ -99,5 +99,18 @@ Page({
           currindex = 0;
         }
         that.changeBanner(currindex);
+  },
+  /*分享页面*/
+  onShareAppMessage:function(){
+    return {
+      title: '固升健康',
+      path: '/page/index/index',
+      success: function (res) {
+        console.log(res)
+      },
+      fail: function (res) {
+        console.log(res)
+      }
+    }
   }
 })
