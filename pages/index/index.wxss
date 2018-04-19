@@ -113,3 +113,8 @@
   color:#4bbc93;
   font-size: 24rpx;
 }
+/**follow me**/
+.follow-me {
+  text-align: right;
+  float:right;
+}

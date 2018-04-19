@@ -22,19 +22,19 @@
     "list":[
       {
         "pagePath":"pages/index/index",
-        "text":"活动",
+        "text":"首页",
         "iconPath":"images/tab_index1.png",
         "selectedIconPath":"images/tab_index2.png"
       },
       {
         "pagePath":"pages/course/course",
-        "text":"全部课程",
+        "text":"问答",
         "iconPath":"images/tab_course1.png",
         "selectedIconPath":"images/tab_course2.png"
       },
       {
         "pagePath":"pages/mystudy/mystudy",
-        "text":"我的学习",
+        "text":"我的",
         "iconPath":"images/tab_mystudy1.png",
         "selectedIconPath":"images/tab_mystudy2.png"
       }

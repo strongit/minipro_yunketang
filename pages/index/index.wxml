@@ -1,5 +1,8 @@
 <!--index.wxml-->
 <view class="pageContainer  bgC">
+  <!--icon-->
+  <button open-type="contact" hover-class="none" class="follow-me">+关注</button>
+  
   <!--search-->
   <view class="search flex">
     <view class="search-left">
